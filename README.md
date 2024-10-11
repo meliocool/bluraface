@@ -1,7 +1,7 @@
 Face Blurring with Python ML
 =
 
-Overview
+Overview  
 Ever wanted to blur someone's face in pictures? This Python machine learning script provides an easy way to do just that! The project utilizes a deep learning model to detect faces and apply a blurring effect.
 
 Project Structure
