@@ -14,9 +14,9 @@ The HaerinBlur folder contains examples of the model in action. You are welcome 
 Prerequisites  
 =
 Before you start, ensure you have Python installed on your machine. This project requires the following libraries:
-numpy
-opencv-python
-torch
-facenet-pytorch
-mtcnn
-scikit-learn
+**numpy  
+opencv-python  
+torch  
+facenet-pytorch  
+mtcnn  
+scikit-learn**
