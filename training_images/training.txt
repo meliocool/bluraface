@@ -1,0 +1,2 @@
+This is where you store your training images
+I recommend at least 300 images, the more the better :D
