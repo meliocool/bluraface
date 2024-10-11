@@ -9,8 +9,7 @@ Project Structure
 =
 The HaerinBlur folder contains examples of the model in action. You are welcome to copy, modify, or enhance any part of this project to suit your needs!  
 
-Note: This project is for educational purposes only. The use of the name "Kang Haerin" and the associated examples are solely illustrative there is no intention to offend or disrespect Kang Haerin, New Jeans, or Bunnies.
-=  
+**Note: This project is for educational purposes only. The use of the name "Kang Haerin" and the associated examples are solely illustrative there is no intention to offend or disrespect Kang Haerin, New Jeans, or Bunnies.**
 
 Prerequisites  
 =
